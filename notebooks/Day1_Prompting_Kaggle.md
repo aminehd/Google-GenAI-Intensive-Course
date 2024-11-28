@@ -1,5 +1,5 @@
 
-# 📓 Walkthrough: [Notebook Title]
+# 📓 Walkthrough: Day 1 - Prompting Kaggle notebook
 
 This guide helps you finish the **[Day 1 - Prompting](https://www.kaggle.com/code/markishere/day-1-prompting)** Notebook. Follow the steps below, use the provided keywords and cues, and track your time to stay on schedule.
 
